@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @patrickcarrington
+- 🌱 I’m currently studying ... BSc Computing at the University of Buckingham
+- 📫 How to reach me ... reach out on twitter: twitter.com/ptcarrington
+
+<!---
+patrickcarrington/patrickcarrington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
