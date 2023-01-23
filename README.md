@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @patrickcarrington
-- 🎓 I’m currently studying BSc Computing at the University of Buckingham
-- 👨🏻‍💻 I'm interested in C++, Python, Information Security, Data Analysis & Computer Vision
+- 💼 I'm a Graduate Software Engineer
+- 🎓 First Class BSc (Hons) graduate from the University of Buckingham
+- 👨🏻‍💻 I'm interested in Python, C++, Artificial Intelligence and Computer Vision
 - ✉️ Visit my website https://patrickcarrington.co.uk or find me on LinkedIn to contact me
 
 
